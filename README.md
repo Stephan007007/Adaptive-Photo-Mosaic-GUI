@@ -10,7 +10,9 @@ Before opening adaptive_photo_mosaic_gui.py, you have to open cmd as administrat
 pip install pillow numpy
 
 # Usage
-1. Download a variety of images (the more colours the better) and put them inside a folder. You can use e.g. https://data.caltech.edu/records/mzrjq-6wc02 (the caltech-101.zip file inside which you can find 101_ObjectCategories.tar.gz - extract that and you have a variety of different sample folders.
+1. Download a variety of images (the more colours the better) and put them inside a folder.
+
+You can use e.g. https://data.caltech.edu/records/mzrjq-6wc02 (download and extract the caltech-101.zip file) inside which you can find 101_ObjectCategories.tar.gz - extract that and you have a variety of different sample folders.
 
 2. Select the target image inside the app. Be sure its dimensions are large enough.
 
