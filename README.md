@@ -4,6 +4,10 @@ Make mosaic images
 # First time
 Download source (click "Code" and "Download zip"), extract the zip, install requirements, open adaptive_photo_mosaic_gui.py
 
+OR
+
+Use the prebuilt version built with PyInstaller - open the .exe file.
+
 # Requirements
 If you haven't already, install Python. On Windows it's relatively simple - open cmd as administrator and type in: 
 
