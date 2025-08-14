@@ -1,6 +1,8 @@
 # Adaptive-Photo-Mosaic-GUI
 Make mosaic images 
 
+![mosaic_1755200205](https://github.com/user-attachments/assets/ff37eb60-82a2-4d46-89a5-6253057d8d40)
+
 # First time
 Download source (click "Code" and "Download zip"), extract the zip, install requirements, open adaptive_photo_mosaic_gui.py
 
