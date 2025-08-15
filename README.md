@@ -9,7 +9,7 @@ Download source (click "Code" and "Download zip"), extract the zip, install requ
 
   OR
 
-Use the prebuilt version built with PyInstaller - open the .exe file.
+Use the prebuilt version built with PyInstaller - download from the "Releases" tab and open the .exe file.
 
 # Requirements
 If you haven't already, install Python. On Windows it's relatively simple - open cmd as administrator and type in: 
